@@ -98,19 +98,22 @@ I’m building projects that reflect real engineering decisions, including:
 
 ---
 
+---
+
 ## Growth Direction
 
-My engineering progression is focused and intentional:
+My engineering journey is focused on building reliable, scalable, and intelligent software systems.
 
 ```text
 Backend Engineering
         ↓
-Systems & Infrastructure
+AI-Powered Backend Systems
         ↓
-Networking & Linux
+Systems & Infrastructure
         ↓
 DevOps / Cloud
         ↓
 Data Engineering
-        ↓
-AI-Powered Backend Systems
+```
+
+My goal is to combine backend engineering fundamentals with AI integration, infrastructure, and data systems to build production-ready software.
